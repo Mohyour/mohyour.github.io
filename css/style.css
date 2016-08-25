@@ -1,0 +1,25 @@
+#current-time {
+    color: #C0C0C0;
+    font-size: 70px;
+    text-align: center;
+    padding-top: 250px;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+body {
+    background: url(../images/anew.jpg) no-repeat center;
+    background-size: cover;
+    image-rendering: auto;
+}
+
+#clock {
+    padding: 10px;
+    border-radius: 50px;
+    background: url('../images/ClockFace.png') no-repeat;
+    background-position: center;
+    background-size: 400px
+
+}
+.container {
+    padding-top: 100px;
+}
